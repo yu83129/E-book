@@ -12,6 +12,22 @@
 		9AC50FCE1EBC4DA80067F472 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9AC50FCC1EBC4DA80067F472 /* Main.storyboard */; };
 		9AC50FD01EBC4DA80067F472 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9AC50FCF1EBC4DA80067F472 /* Assets.xcassets */; };
 		9AC50FD31EBC4DA80067F472 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9AC50FD11EBC4DA80067F472 /* LaunchScreen.storyboard */; };
+		9AC50FE01EBC4F2D0067F472 /* cat1.png in Resources */ = {isa = PBXBuildFile; fileRef = 9AC50FDB1EBC4F2D0067F472 /* cat1.png */; };
+		9AC50FE11EBC4F2D0067F472 /* cat2.png in Resources */ = {isa = PBXBuildFile; fileRef = 9AC50FDC1EBC4F2D0067F472 /* cat2.png */; };
+		9AC50FE21EBC4F2D0067F472 /* cat3.png in Resources */ = {isa = PBXBuildFile; fileRef = 9AC50FDD1EBC4F2D0067F472 /* cat3.png */; };
+		9AC50FE31EBC4F2D0067F472 /* cat4.png in Resources */ = {isa = PBXBuildFile; fileRef = 9AC50FDE1EBC4F2D0067F472 /* cat4.png */; };
+		9AC50FE41EBC4F2D0067F472 /* cat5.png in Resources */ = {isa = PBXBuildFile; fileRef = 9AC50FDF1EBC4F2D0067F472 /* cat5.png */; };
+		9AC50FE61EBC518E0067F472 /* TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9AC50FE51EBC518E0067F472 /* TableViewController.swift */; };
+		9AC50FEA1EBC55250067F472 /* catjump.png in Resources */ = {isa = PBXBuildFile; fileRef = 9AC50FE91EBC55250067F472 /* catjump.png */; };
+		9AC50FEC1EBC5D3F0067F472 /* DogTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9AC50FEB1EBC5D3F0067F472 /* DogTableViewController.swift */; };
+		9AC50FEF1EBC5DB10067F472 /* doghome.png in Resources */ = {isa = PBXBuildFile; fileRef = 9AC50FEE1EBC5DB10067F472 /* doghome.png */; };
+		9AC50FF51EBC5EA00067F472 /* dog1.png in Resources */ = {isa = PBXBuildFile; fileRef = 9AC50FF01EBC5EA00067F472 /* dog1.png */; };
+		9AC50FF61EBC5EA00067F472 /* dog2.png in Resources */ = {isa = PBXBuildFile; fileRef = 9AC50FF11EBC5EA00067F472 /* dog2.png */; };
+		9AC50FF71EBC5EA00067F472 /* dog3.png in Resources */ = {isa = PBXBuildFile; fileRef = 9AC50FF21EBC5EA00067F472 /* dog3.png */; };
+		9AC50FF81EBC5EA00067F472 /* dog4.png in Resources */ = {isa = PBXBuildFile; fileRef = 9AC50FF31EBC5EA00067F472 /* dog4.png */; };
+		9AC50FF91EBC5EA00067F472 /* dog5.png in Resources */ = {isa = PBXBuildFile; fileRef = 9AC50FF41EBC5EA00067F472 /* dog5.png */; };
+		9AC50FFF1EBC6A390067F472 /* icons8-cat.png in Resources */ = {isa = PBXBuildFile; fileRef = 9AC50FFE1EBC6A390067F472 /* icons8-cat.png */; };
+		9AC510031EBC6AE10067F472 /* icons8-dog.png in Resources */ = {isa = PBXBuildFile; fileRef = 9AC510021EBC6AE10067F472 /* icons8-dog.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +38,22 @@
 		9AC50FCF1EBC4DA80067F472 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9AC50FD21EBC4DA80067F472 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9AC50FD41EBC4DA80067F472 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9AC50FDB1EBC4F2D0067F472 /* cat1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cat1.png; sourceTree = "<group>"; };
+		9AC50FDC1EBC4F2D0067F472 /* cat2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cat2.png; sourceTree = "<group>"; };
+		9AC50FDD1EBC4F2D0067F472 /* cat3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cat3.png; sourceTree = "<group>"; };
+		9AC50FDE1EBC4F2D0067F472 /* cat4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cat4.png; sourceTree = "<group>"; };
+		9AC50FDF1EBC4F2D0067F472 /* cat5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cat5.png; sourceTree = "<group>"; };
+		9AC50FE51EBC518E0067F472 /* TableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TableViewController.swift; sourceTree = "<group>"; };
+		9AC50FE91EBC55250067F472 /* catjump.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = catjump.png; sourceTree = "<group>"; };
+		9AC50FEB1EBC5D3F0067F472 /* DogTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = DogTableViewController.swift; path = ../DogTableViewController.swift; sourceTree = "<group>"; };
+		9AC50FEE1EBC5DB10067F472 /* doghome.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = doghome.png; sourceTree = "<group>"; };
+		9AC50FF01EBC5EA00067F472 /* dog1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dog1.png; sourceTree = "<group>"; };
+		9AC50FF11EBC5EA00067F472 /* dog2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dog2.png; sourceTree = "<group>"; };
+		9AC50FF21EBC5EA00067F472 /* dog3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dog3.png; sourceTree = "<group>"; };
+		9AC50FF31EBC5EA00067F472 /* dog4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dog4.png; sourceTree = "<group>"; };
+		9AC50FF41EBC5EA00067F472 /* dog5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dog5.png; sourceTree = "<group>"; };
+		9AC50FFE1EBC6A390067F472 /* icons8-cat.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icons8-cat.png"; sourceTree = "<group>"; };
+		9AC510021EBC6AE10067F472 /* icons8-dog.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icons8-dog.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,10 +90,42 @@
 				9AC50FCA1EBC4DA80067F472 /* ViewController.swift */,
 				9AC50FCC1EBC4DA80067F472 /* Main.storyboard */,
 				9AC50FCF1EBC4DA80067F472 /* Assets.xcassets */,
+				9AC50FDA1EBC4F2D0067F472 /* cat */,
 				9AC50FD11EBC4DA80067F472 /* LaunchScreen.storyboard */,
 				9AC50FD41EBC4DA80067F472 /* Info.plist */,
+				9AC50FE51EBC518E0067F472 /* TableViewController.swift */,
+				9AC50FED1EBC5DB10067F472 /* dog */,
+				9AC50FEB1EBC5D3F0067F472 /* DogTableViewController.swift */,
 			);
 			path = "E-book";
+			sourceTree = "<group>";
+		};
+		9AC50FDA1EBC4F2D0067F472 /* cat */ = {
+			isa = PBXGroup;
+			children = (
+				9AC50FDB1EBC4F2D0067F472 /* cat1.png */,
+				9AC50FDC1EBC4F2D0067F472 /* cat2.png */,
+				9AC50FDD1EBC4F2D0067F472 /* cat3.png */,
+				9AC50FDE1EBC4F2D0067F472 /* cat4.png */,
+				9AC50FDF1EBC4F2D0067F472 /* cat5.png */,
+				9AC50FFE1EBC6A390067F472 /* icons8-cat.png */,
+				9AC50FE91EBC55250067F472 /* catjump.png */,
+			);
+			path = cat;
+			sourceTree = "<group>";
+		};
+		9AC50FED1EBC5DB10067F472 /* dog */ = {
+			isa = PBXGroup;
+			children = (
+				9AC50FF01EBC5EA00067F472 /* dog1.png */,
+				9AC50FF11EBC5EA00067F472 /* dog2.png */,
+				9AC50FF21EBC5EA00067F472 /* dog3.png */,
+				9AC50FF31EBC5EA00067F472 /* dog4.png */,
+				9AC50FF41EBC5EA00067F472 /* dog5.png */,
+				9AC510021EBC6AE10067F472 /* icons8-dog.png */,
+				9AC50FEE1EBC5DB10067F472 /* doghome.png */,
+			);
+			path = dog;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -123,9 +187,23 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9AC50FF71EBC5EA00067F472 /* dog3.png in Resources */,
+				9AC50FE41EBC4F2D0067F472 /* cat5.png in Resources */,
+				9AC50FE01EBC4F2D0067F472 /* cat1.png in Resources */,
+				9AC50FF81EBC5EA00067F472 /* dog4.png in Resources */,
+				9AC50FE31EBC4F2D0067F472 /* cat4.png in Resources */,
+				9AC50FEF1EBC5DB10067F472 /* doghome.png in Resources */,
+				9AC50FE11EBC4F2D0067F472 /* cat2.png in Resources */,
+				9AC50FE21EBC4F2D0067F472 /* cat3.png in Resources */,
 				9AC50FD31EBC4DA80067F472 /* LaunchScreen.storyboard in Resources */,
+				9AC50FEA1EBC55250067F472 /* catjump.png in Resources */,
 				9AC50FD01EBC4DA80067F472 /* Assets.xcassets in Resources */,
+				9AC50FF91EBC5EA00067F472 /* dog5.png in Resources */,
 				9AC50FCE1EBC4DA80067F472 /* Main.storyboard in Resources */,
+				9AC50FFF1EBC6A390067F472 /* icons8-cat.png in Resources */,
+				9AC50FF51EBC5EA00067F472 /* dog1.png in Resources */,
+				9AC510031EBC6AE10067F472 /* icons8-dog.png in Resources */,
+				9AC50FF61EBC5EA00067F472 /* dog2.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -136,7 +214,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9AC50FEC1EBC5D3F0067F472 /* DogTableViewController.swift in Sources */,
 				9AC50FCB1EBC4DA80067F472 /* ViewController.swift in Sources */,
+				9AC50FE61EBC518E0067F472 /* TableViewController.swift in Sources */,
 				9AC50FC91EBC4DA80067F472 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
